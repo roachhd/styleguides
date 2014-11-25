@@ -29,7 +29,7 @@ them later."
     - issue tracker
     - wiki
     - blog posts, screencasts, etc
-    - compiled documentation (add the project to [rdoc.info](http://rdoc.info))
+    - compiled documentation (generally use FlatDoc)
     - travis-ci results
     - mailing list
 
