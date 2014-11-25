@@ -1,4 +1,4 @@
-#### A Style Guide for README files
+#### This is my Style Guide when creating README files. 
 
 ## Contents
 
