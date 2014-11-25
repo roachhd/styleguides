@@ -1,5 +1,3 @@
-# Readme files Styleguide.
-
 #### A Style Guide for README files
 
 ## Contents
